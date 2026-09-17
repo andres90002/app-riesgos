@@ -6,7 +6,7 @@ import plotly.express as px
 # Configura el diseño de la página
 st.set_page_config(page_title="Panel Gerencial ForjaHierro G&G", layout="wide")
 
-st.title("Panel Gerencial - ForjaHierro G&G")
+st.title("Panel Gerencial - ForjaHierro G&G - Versión 2.0")
 
 # Conexión a la base de datos y lectura de la tabla
 DATABASE = 'riesgos_forjahierro.db'
